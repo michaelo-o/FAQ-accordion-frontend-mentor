@@ -24,8 +24,8 @@ This is a solution to the [FAQ Accordion Card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-completed-by-michael-XXXXX)
-- Live Site URL: [Live Demo](https://your-live-site-url.netlify.app)
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-flexbox-js-IDZ6z-FeTS)
+- Live Site URL: [Live Demo](https://michaelo-o.github.io/FAQ-accordion-frontend-mentor/)
 
 ---
 
